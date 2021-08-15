@@ -1,7 +1,6 @@
 ## Opa sou o Ruther iae!
 - 🎓 × Empreendedor/Trader
 - 💰 × Minerador de Criptomoedas
-- 🌍 × Programador
 - 📝 × Designer
 - 🏜️ × Recife-PE
 
