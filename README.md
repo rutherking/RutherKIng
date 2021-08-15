@@ -1,9 +1,9 @@
 ## Opa sou o Ruther iae!
--->🎓 × Empreendedor/Trader
+"🎓 × Empreendedor/Trader
 💰 × Minerador de Criptomoedas
 🌍 × Programador
 📝 × Designer
-🏜️ × Recife-PE -->
+🏜️ × Recife-PE"
 
  <div>
   <a href="https://github.com/rutherking">
