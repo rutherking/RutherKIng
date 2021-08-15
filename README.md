@@ -15,7 +15,6 @@
  
 <div> 
   <a href="https://www.youtube.com/channel/UCuZQzi6XpETTBqkec4xCaQA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/ruther_138/" target="_blank"><img src="https://cdn.discordapp.com/attachments/872169728595075102/876292369161531462/instagram-logo.png" target="_blank"></a>
   <a href="https://discord.gg/Kjhqp4cbC7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
  
   ![Snake animation](https://github.com/rutherking/rutherking/blob/output/github-contribution-grid-snake.svg)
