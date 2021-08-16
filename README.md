@@ -11,7 +11,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.discordapp.com/attachments/866893019905916948/876722446164717578/1280px-Node.js_logo.svg.png">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.discordapp.com/attachments/866893019905916948/876725652173234176/80-803501_javascript-logo-logo-de-java-script-png.png">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/872169728595075102/876291631857434624/rutherr.png">
