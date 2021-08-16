@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RutherKing&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.discordapp.com/attachments/866893019905916948/876725556585050112/javascript_logo.png">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.discordapp.com/attachments/866893019905916948/876722446164717578/1280px-Node.js_logo.svg.png">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.discordapp.com/attachments/866893019905916948/876725652173234176/80-803501_javascript-logo-logo-de-java-script-png.png">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
