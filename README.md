@@ -1,7 +1,4 @@
 ## Opa sou o Ruther iae!
-- 🎓 × Empreendedor
-- 📝 × Designer
-- 🏜️ × Recife-PE
 
  <div>
   <a href="https://github.com/rutherking">
