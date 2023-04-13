@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RutherKing&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-react" height="30" width="30" src="https://cdn.discordapp.com/attachments/862819022550728744/1095945771712520192/React-icon.svg.png">
+  <img align="center" border-radios="10px" alt="Rafa-react" height="30" width="30" src="https://cdn.discordapp.com/attachments/862819022550728744/1095945771712520192/React-icon.svg.png">
   <img align="center" alt="Rafa-Js" height="30" width="30" src="https://cdn.discordapp.com/attachments/1030374392359817287/1030374794241257502/js.png">
   <img align="center" alt="Rafa-Js" height="30" width="30" src="https://cdn.discordapp.com/attachments/1030374392359817287/1030374427428405298/node-js.png">
   <img align="center" alt="Rafa-HTML" height="30" width="30" src="https://cdn.discordapp.com/attachments/1030374392359817287/1030374896200601600/html.png">
